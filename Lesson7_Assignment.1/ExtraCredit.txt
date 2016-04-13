@@ -1,0 +1,7 @@
+To enhance my recipe display applicaion, I added features
+that displayed both instructions and ingredients at once when
+your mouse hovers over the "Honey Garlic Salmon" title.
+This avoids having to click or even hovering over seperate elements.
+
+I also allowed for the background behind the salmon image to change to orange when 
+hovering your mouse over the image.
